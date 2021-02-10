@@ -1,0 +1,64 @@
+body {
+    background-color: #000000;
+    font-family: "SCP", monospace;
+    color: white;
+    font-size: 25px;
+}
+
+@font-face {
+    font-family: "SCP";
+    src: url("SourceCodePro-Regular.ttf");
+
+}
+h1 {
+    color: #9f3aed;
+    text-align : left;
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: 75px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    color: white;
+    padding-left: 5%;
+    padding-right: 15%;
+    font-size: 32px;
+}
+a {
+    color: white;
+}
+
+.box {
+    position: relative;
+}
+
+.lainpic {
+    position: absolute;
+    bottom:0;
+    right:15%;
+}
+
+img {
+    width: 25%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text {
+    padding-left: 10%;
+}
+
+.essay {
+    font-size: 18px;
+}
+
+.drainimg {
+    width: 23.7%;
+}
